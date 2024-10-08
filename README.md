@@ -3,3 +3,5 @@ I didn't use Ai for any of this, since it's all about finding clever situations 
 I did however have to research for stuff like specific functions, usually from the documentation or from stack exchange - I used this event to mainly develop my python skills.
 
 https://adventofcode.com/2022
+
+https://www.reddit.com/r/adventofcode/
